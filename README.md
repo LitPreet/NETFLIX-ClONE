@@ -12,7 +12,7 @@ I just created for practicing my Tailwind skills.
 Feel free to contribute!.
 
 
-🎃Runing Project Locally
+🎃Running Project Locally
 
 Install dependencies: Install tailwindcss via npm, and create your tailwind.config.js file.
 
