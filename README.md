@@ -22,6 +22,6 @@ Add the @tailwind directives for each of Tailwind’s layers to your main CSS fi
 
 Run the CLI tool to scan your template files for classes and build your CSS.
 
-Type in Your Terminal npm run start. it will open a local host.
+Type command in Your Terminal npm run start. it will open a local host.
 
 Open the link in your browser.
